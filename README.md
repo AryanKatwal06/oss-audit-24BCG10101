@@ -4,12 +4,12 @@
 
 ## Student Information
 
-**Student Name:** Aryan Katwal
-**Registration Number:** 24BCG10101
-**Program:** B.Tech Computer Science and Engineering
-**Specialization:** Gaming Technology
-**University:** VIT Bhopal University
-**Course:** Open Source Software
+- **Student Name:** Aryan Katwal  
+- **Registration Number:** 24BCG10101  
+- **Program:** B.Tech Computer Science and Engineering  
+- **Specialization:** Gaming Technology  
+- **University:** VIT Bhopal University  
+- **Course:** Open Source Software
 
 ---
 
