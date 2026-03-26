@@ -255,9 +255,10 @@ The project strengthened knowledge of Linux scripting, system-level operations, 
 
 ---
 
-# Author
+## Author
 
-Aryan Katwal
-Registration Number: 24BCG10101
-B.Tech Computer Science and Engineering — Gaming Technology
-VIT Bhopal University
+- **Name:** Aryan Katwal  
+- **Registration Number:** 24BCG10101  
+- **Program:** B.Tech Computer Science and Engineering  
+- **Specialization:** Gaming Technology  
+- **Institution:** VIT Bhopal University
